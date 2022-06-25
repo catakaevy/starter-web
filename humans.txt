@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cataka Tokyo cataka@gmail.com @cataka_twitter
 
 # THANKS
 
